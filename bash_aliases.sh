@@ -46,6 +46,9 @@ alias syslog='tail -f -n 1000 /var/log/syslog'
 # Searches the package database for specific files or keywords: 'research keyword'
 alias research='apt-cache search -f $1'
 
+# Monitors all tcp an udp listening ports and programs using netstat 
+alias ports='netstat -tulanp'
+
 
 # ==============================================
 # NETWORK & FIREWALL (IPTABLES) MANAGEMENT
