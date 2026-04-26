@@ -11,7 +11,7 @@ This repository contains a comprehensive set of highly useful bash aliases desig
 ### 💡 Getting Started
 1.  Clone this repository to your local machine:
     ```bash
-    git clone ;https://github.com/timothytuckhco-del/bash_aliases.git;
+    git clone https://github.com/timothytuckhco-del/bash_aliases.git
     cd bash_aliases
     ```
 2.  Source the provided alias file into your shell configuration (see **Installation** section below).
